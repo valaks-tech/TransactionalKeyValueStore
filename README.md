@@ -1,2 +1,1 @@
-# TransactionalKeyValueStore
-How to Design a Transactional Key-value Store in Python
+# How to Design a Transactional Key-value Store in Python

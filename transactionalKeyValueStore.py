@@ -1,3 +1,7 @@
+"""
+TrasactionStack => structure to store all the active transactions BEFORE commit/rollback actions
+globalStore     => structure to store the changes permanently AFTER commit operations
+"""
 class KVStore:
     def __init__(self):
         self.globalStore = {}
